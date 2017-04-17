@@ -2,6 +2,8 @@
 
 Waffle board for Matrix bots/bridges: [turt2live/waffle-matrix](https://waffle.io/turt2live/waffle-matrix)
 
+This repo also holds information/tickets related to the t2bot.io infrastructure until a better system can be implemented.
+
 # Repositories
 
 * [turt2live/matrix-appservice-minecraft](https://github.com/turt2live/matrix-appservice-minecraft)
