@@ -12,3 +12,4 @@ This repo also holds information/tickets related to the t2bot.io infrastructure 
 * [turt2live/matrix-appservice-instagram](https://github.com/turt2live/matrix-appservice-instagram)
 * [turt2live/matrix-email-bot](https://github.com/turt2live/matrix-email-bot)
 * [turt2live/matrix-temperature-logger](https://github.com/turt2live/matrix-temperature-logger)
+* [turt2live/matrix-dimension](https://github.com/turt2live/matrix-dimension)
