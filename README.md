@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/turt2live/waffle-matrix.png?label=ready&title=Ready)](https://waffle.io/turt2live/waffle-matrix?utm_source=badge)
 # waffle-matrix
 
 Waffle board for Matrix bots/bridges: [turt2live/waffle-matrix](https://waffle.io/turt2live/waffle-matrix)
